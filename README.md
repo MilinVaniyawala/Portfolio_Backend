@@ -27,4 +27,4 @@ Contributions are welcome! If you have any suggestions, bug fixes, or feature en
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
 ### Author:
-[Milin Vaniyawala](https://github.com/MilinVaniyawala) - [Your Website] - [milinvaniyawala@gmail.com]
+[Milin Vaniyawala](https://github.com/MilinVaniyawala) - [Portfolio](https://milin-eight.vercel.app/) - [milinvaniyawala@gmail.com]
